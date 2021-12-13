@@ -3,7 +3,7 @@ good day,
 In order to generate additional funds for marketing, we decided to sell 10% of our company tokens and to burn 10% within the next week.
 
 We do this in small steps that put minimal load on our chart.
-And the same amount that we use as a find we will burn permanently.
+The same amount we sell and buyback we will also burn permanently.
 
 We try to do this with the greatest possible transparency.
 My developer team is currently in the process of developing a snapshot and a vote system for share holders, so that the community can decide in the future whether we should repeat this process or not.
