@@ -11,8 +11,9 @@ My developer team is currently in the process of developing a snapshot and a vot
 
 December 13, 2021
 
-2bnb for extra marketing funds (Twitter influencer)
-2bnb buyback (are bought back and burned.
+- 2 $BNB for extra marketing funds (Twitter influencer)
+
+- 2 $BNB buyback (are bought back and burned.)
 
 The sale and repurchase takes place via the buyback wallet:
 0x4e01CC1101DEe37881AD84B6d5D1a06975280934
