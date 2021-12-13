@@ -18,6 +18,7 @@ The sale and repurchase takes place via the buyback wallet:
 
 
 burn:
+
 https://bscscan.com/tx/0xa28fa0eb92c809e99608daefa5dc3d589bf08e51c12af3a3cc678ae4d30996e4
 
 Buyback:
@@ -32,5 +33,6 @@ Buyback:
 
 
 sale:
+
 https://bscscan.com/tx/0x45d0957d2d8a9d7f18dd1dfc1f71bb48b399f6b4f0bcdd2f613d25b870ef7f75
 https://bscscan.com/tx/0xe603d45d3b2f7d832d91b58a39c8276ef8283d037922b1eb652044c34e26956a
