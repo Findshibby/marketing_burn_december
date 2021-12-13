@@ -6,7 +6,7 @@ We do this in small steps that put minimal load on our chart.
 The same amount we sell and buyback we will also burn permanently.
 
 We try to do this with the greatest possible transparency.
-My developer team is currently in the process of developing a snapshot and a vote system for share holders, so that the community can decide in the future whether we should repeat this process or not.
+My developer team is currently in the process of developing a snapshot and a vote system for $FindShibby holders, so that the community can decide in the future whether we should repeat this process or not.
 
 
 December 13, 2021
