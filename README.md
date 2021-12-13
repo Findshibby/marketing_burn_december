@@ -1,6 +1,7 @@
 good day,
 
-In order to generate additional funds for marketing, we decided to sell 10% of our company tokens and to burn 10%.
+In order to generate additional funds for marketing, we decided to sell 10% of our company tokens and to burn 10% within the next week.
+
 We do this in small steps that put minimal load on our chart.
 And the same amount that we use as a find we will burn permanently.
 
